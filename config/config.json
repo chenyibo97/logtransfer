@@ -1,0 +1,5 @@
+{
+  "kafkaServerAddr": "127.0.0.1:9092",
+  "topic": "web_log",
+  "elesticsServerAddr": "http://127.0.0.1:9200"
+}
